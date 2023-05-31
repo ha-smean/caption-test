@@ -2,7 +2,7 @@
 ## link github account to mac terminal
 
 ```
-ssh-keygen -t rsa -b 4096 -C "jazmin.ramirez8@ou.edu"
+ssh-keygen -t rsa -b 4096 -C "your email"
 cd ~/.ssh
 ls
 eval "$(ssh-agent -s)"
